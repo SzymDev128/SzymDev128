@@ -28,6 +28,11 @@
 - Prisma
 - Basic REST APIs
 
+**Additional Tools & Libraries**
+- Chakra
+- Redux
+- Tailwind
+- Recharts
 
 ## 📂 Featured Projects
 👉 Check out my pinned repositories below — they showcase my best work and learning progress.
